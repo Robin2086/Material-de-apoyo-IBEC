@@ -1,0 +1,556 @@
+CLUSTAL W (1.83) multiple sequence alignment
+
+lcl|NM_001244198.2_gene_1  ACCCT-C--T--TTTCTTATC-G--TTGACA---TTTAAA----------
+lcl|NM_001368894.2_gene_1  GCATGTTGCGGAGTGATTAGTGGGTTTGAAA--A-GGGAACCGTGGCTCG
+lcl|NM_013001.2_gene_1     GCGAC----------------------GAAAGAGAGGATG----------
+lcl|XM_075280870.1_gene_1  CCTCCT-------T-CT---------C--CA--G-GGAAA----------
+lcl|XM_077820119.1_gene_1  ATG--T--------------------T------G-GG-------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  -------------C-TCTGGGGCAG-GT----------------------
+lcl|NM_001368894.2_gene_1  GCCTCATTTCCCGC-TCTGGTTCAGGCGCAGGAGGAAGTGTTTTGCTGGA
+lcl|NM_013001.2_gene_1     -------------CCT----------------------------------
+lcl|XM_075280870.1_gene_1  -------------C-T--GTCTCAG-------------------------
+lcl|XM_077820119.1_gene_1  --CTCAT----------------GG-------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  --------------C------CTCG-----------CGTAG---------
+lcl|NM_001368894.2_gene_1  GGATGATGACAGAGGTCAGGCTTCGCTAATGGGCCAGTGAGGAGCGGTGG
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------CT----------------------------------
+lcl|XM_077820119.1_gene_1  -------------GCTCAGAGT-----------------AGG--------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  -------------------------------AACCCGGTTG-----T---
+lcl|NM_001368894.2_gene_1  AGGCGAGGCCGGGCGCCGGCACACACACATTAACACACTTGAGCCATCAC
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  ----CAG-----A--TC-------TGCT---------------ACTTCCC
+lcl|NM_001368894.2_gene_1  CAATCAGCATAGGAATCTGAGAATTGCTCTCACACACCAACCCAGCAACA
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------AC----------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  CCC---GAGAA-----------GCGG---CTTTGAG--------------
+lcl|NM_001368894.2_gene_1  TCCGTGGAGAAAACTCTCACCAGCAACTCCTTTAAAACACCGTCATTTCA
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  ---AAGTGTGG--------GAAC--CAGCGCCA-------------CCAG
+lcl|NM_001368894.2_gene_1  AACCATTGTGGTCTTCAAGCAACAACAGCAGCACAAAAAACCCCAACCAA
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  AC---TCACCTGACAC-------CCCACCC-------TCGGCTCAC--AG
+lcl|NM_001368894.2_gene_1  ACAAAACTCTTGACAGAAGCTGTGACAACCAGAAAGGATGCCTCATAAAG
+lcl|NM_013001.2_gene_1     -----------------------------------------CTTAA--AG
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  GCAGAAGACTTTAACCAAGGGC-GGTGAGCAGATGTGTGAGATCTTCTAT
+lcl|NM_001368894.2_gene_1  GGGGAAGACTTTAACTAGG----GGCGCGCAGATGTGTGAGGCCTTTTAT
+lcl|NM_013001.2_gene_1     GCAGAAGACTTTAACTAGGGGCGGGCGAGCAGATGTGTGAGATCTTCTAT
+lcl|XM_075280870.1_gene_1  -CTTGAGACTTCAGGTTTG-----AGGATCCTTTTTTT---TTTTTTTTT
+lcl|XM_077820119.1_gene_1  -----------------CG----GG--A------GTGTGG----CTCGAT
+                                             *                * *       *   *
+
+lcl|NM_001244198.2_gene_1  TCTAGAAGTGGACGTATATCCCA--GTTCTCAGAGCCCCGTATTCGAGCC
+lcl|NM_001368894.2_gene_1  TGTGAGAGTGGACAGACATCCGA--GATTTCAGAGCCCCATATTCGAGCC
+lcl|NM_013001.2_gene_1     TCAAAGAGTGGACATATAGCCCA--GTTTTCAGAGCCACGTATTCGAGCC
+lcl|XM_075280870.1_gene_1  TTAA----TGAAC-TAAAGTCCTATGATATCTCAGC-ACAAAG--GA---
+lcl|XM_077820119.1_gene_1  -CA--------TTATATAGGA---------CTGAGCTC-CTAGCC-----
+                                          * *            *  ***     *        
+
+lcl|NM_001244198.2_gene_1  CCGTGGGATCCGGAG------GCTGCCAACCAGCTCCAGCATGCAGAACA
+lcl|NM_001368894.2_gene_1  CCGTGGAATCCCGCG------GCCCCCAGCCAGAGCCAGCATGCAGAACA
+lcl|NM_013001.2_gene_1     CCGTGGGATCCGGAG------GCTGCCAACCAGCTCCAGCATGCAGAACA
+lcl|XM_075280870.1_gene_1  --ATGGGATGTGAAGCCAATGTCTGA---------AGAGGACTCT-CAGG
+lcl|XM_077820119.1_gene_1  ------------GAG------ACTG----------------------GGG
+                                         *       *                           
+
+lcl|NM_001244198.2_gene_1  GTCACAGCGGAGTGAATCAGCTTGGTGGTGTCTTTGTCAACGGGCGGCCA
+lcl|NM_001368894.2_gene_1  GTCACAGCGGAGTGAATCAGCTCGGTGGTGTCTTTGTCAACGGGCGGCCA
+lcl|NM_013001.2_gene_1     GTCACAGCGGAGTGAATCAGCTTGGTGGTGTCTTTGTCAACGGGCGGCCA
+lcl|XM_075280870.1_gene_1  GTCACAGTGGAGTGAATCAGCTCGGTGGAGTGTTTGTTAACGGTAGACCC
+lcl|XM_077820119.1_gene_1  GTCACAGCGGAGTGAATCAGCTCGGCGGTGTGTTTGTCAACGGTAGACCA
+                           ******* ************** ** ** ** ***** *****  * ** 
+
+lcl|NM_001244198.2_gene_1  CTGCCGGACTCCACCCGGCAGAAGATCGTAGAGCTAGCTCACAGCGGGGC
+lcl|NM_001368894.2_gene_1  CTGCCGGACTCCACCCGGCAGAAGATTGTAGAGCTAGCTCACAGCGGGGC
+lcl|NM_013001.2_gene_1     CTGCCGGACTCCACCCGGCAGAAGATCGTAGAGCTAGCTCACAGCGGGGC
+lcl|XM_075280870.1_gene_1  TTGCCAGATTCTACCAGGCAGAAGATAGTGGAGCTGGCACACAGCGGAGC
+lcl|XM_077820119.1_gene_1  CTGCCAGACTCAACCAGACAGAAAATAGTGGAACTAGCGCATAGTGGGGC
+                            **** ** ** *** * ***** ** ** ** ** ** ** ** ** **
+
+lcl|NM_001244198.2_gene_1  CCGGCCGTGCGACATTTCCCGAATTCTGCAGACCCATGCAGATGCAAAAG
+lcl|NM_001368894.2_gene_1  CCGGCCGTGCGACATTTCCCGAATTCTGCAGACCCATGCAGATGCAAAAG
+lcl|NM_013001.2_gene_1     CCGGCCGTGCGACATTTCCCGAATTCTGCAG-------------------
+lcl|XM_075280870.1_gene_1  AAGACCCTGTGATATTTCCAGAATCTTGCAGAGCCATGCAGATGCAAAAG
+lcl|XM_077820119.1_gene_1  TCGTCCGTGCGATATCTCCAGAATCCTGCAGACCCATGCAGATGCAAAAG
+                             * ** ** ** ** *** ****  *****                   
+
+lcl|NM_001244198.2_gene_1  TCCAGGTGCTGGACAATGAAAACGTATCCAACGGTTGTGTGAGTAAAATT
+lcl|NM_001368894.2_gene_1  TCCAAGTGCTGGACAATCAAAACGTGTCCAACGGATGTGTGAGTAAAATT
+lcl|NM_013001.2_gene_1     -----------------------GTGTCCAACGGATGTGTGAGTAAAATT
+lcl|XM_075280870.1_gene_1  TGCCAGTGCTGGATAGTCAAAACGTGTCAAACGGTTGCGTGAGTAAGATT
+lcl|XM_077820119.1_gene_1  TCCAAGTGCTGGACAATCAAAACGTGTCGAATGGATGTGTGAGTAAAATT
+                                                  ** ** ** ** ** ******** ***
+
+lcl|NM_001244198.2_gene_1  CTGGGCAGGTATTACGAGACTGGCTCCATCAGACCCAGGGCAATCGGAGG
+lcl|NM_001368894.2_gene_1  CTGGGCAGGTATTACGAGACTGGCTCCATCAGACCCAGGGCAATCGGTGG
+lcl|NM_013001.2_gene_1     CTGGGCAGGTATTACGAGACTGGCTCCATCAGACCCAGGGCAATCGGAGG
+lcl|XM_075280870.1_gene_1  TTAGGGAGGTATTACGAGACTGGATCCATCAGACCTCGAGCCATCGGGGG
+lcl|XM_077820119.1_gene_1  TTGGGCAGGTATTACGAAACTGGCTCCATCAGACCCAGGGCAATCGGAGG
+                            * ** *********** ***** ***********  * ** ***** **
+
+lcl|NM_001244198.2_gene_1  GAGTAAGCCAAGAGTGGCGACTCCAGAAGTTGTAAGCAAAATAGCCCAGT
+lcl|NM_001368894.2_gene_1  TAGTAAACCGAGAGTAGCGACTCCAGAAGTTGTAAGCAAAATAGCCCAGT
+lcl|NM_013001.2_gene_1     CAGTAAGCCAAGAGTGGCGACTCCAGAAGTTGTAAGCAAAATAGCCCAGT
+lcl|XM_075280870.1_gene_1  AAGCAAGCCTAGGGTGGCCACTCCAGAGGTGGTCAGCAAAATAGCCCAAT
+lcl|XM_077820119.1_gene_1  TAGTAAACCAAGAGTAGCGACTCCAGAAGTTGTAAGCAAAATAGCGCAGT
+                            ** ** ** ** ** ** ******** ** ** *********** ** *
+
+lcl|NM_001244198.2_gene_1  ATAAACGGGAGTGCCCTTCCATCTTTGCTTGGGAAATCCGAGACAGATTA
+lcl|NM_001368894.2_gene_1  ATAAGCGGGAGTGCCCGTCCATCTTTGCTTGGGAAATCCGAGACAGATTA
+lcl|NM_013001.2_gene_1     ATAAACGGGAGTGCCCGTCCATCTTTGCTTGGGAAATCCGAGACAGATTA
+lcl|XM_075280870.1_gene_1  ATAAAAGAGAGTGCCCTTCCATCTTTGCCTGGGAGATACGAGACAGGTTA
+lcl|XM_077820119.1_gene_1  ATAAACGAGAGTGCCCCTCCATCTTTGCGTGGGAGATTCGAGACAGATTA
+                           ****  * ******** *********** ***** ** ******** ***
+
+lcl|NM_001244198.2_gene_1  TTATCCGAGGGGGTCTGTACCAACGATAACATACCCAGTGTGTCATCAAT
+lcl|NM_001368894.2_gene_1  CTGTCCGAGGGGGTCTGTACCAACGATAACATACCAAGCGTGTCATCAAT
+lcl|NM_013001.2_gene_1     CTCTCCGAGGGGGTCTGTACCAACGACAATATACCCAGTGTGTCATCAAT
+lcl|XM_075280870.1_gene_1  CTGTCCGAAGGCGTCTGCACCAACGATAACATCCCTAGTGTATCGTCAAT
+lcl|XM_077820119.1_gene_1  CTATCAGAGGGGGTCTGTACCAACGATAATATACCCAGTGTATCATCAAT
+                            * ** ** ** ***** ******** ** ** ** ** ** ** *****
+
+lcl|NM_001244198.2_gene_1  AAACAGAGTTCTTCGCAACCTGGCTAGCGAAAAGCAACAGATGGGCGCAG
+lcl|NM_001368894.2_gene_1  AAACAGAGTTCTTCGCAACCTGGCTAGCGAAAAGCAACAGATGGGCGCAG
+lcl|NM_013001.2_gene_1     AAACAGAGTTCTTCGCAACCTGGCTAGCGAAAAGCAACAGATGGGCGCAG
+lcl|XM_075280870.1_gene_1  AAACCGAGTATTGCGCAACCTGGCTAGCGAGAAGCAACAGATGGGCGCAG
+lcl|XM_077820119.1_gene_1  AAACAGAGTTCTACGCAACCTGGCTAGCGAAAAGCAACAGATGGGTGCAG
+                           **** ****  * ***************** ************** ****
+
+lcl|NM_001244198.2_gene_1  ACGGCATGTATGATAAACTAAGGATGTTGAACGGGCAGACCGGAAGCTGG
+lcl|NM_001368894.2_gene_1  ACGGCATGTATGATAAACTAAGGATGTTGAACGGGCAGACCGGAAGCTGG
+lcl|NM_013001.2_gene_1     ACGGCATGTATGATAAACTAAGGATGCTGAACGGACAGACCGGAAGCTGG
+lcl|XM_075280870.1_gene_1  ATGGCATGTATGACAAGCTGAGGATGCTGAACGGACAGACCGGGACTTGG
+lcl|XM_077820119.1_gene_1  ATGGGATGTACGACAAGCTAAGAATGCTGAATGGGCAGACCGGGACGTGG
+                           * ** ***** ** ** ** ** *** **** ** ******** *  ***
+
+lcl|NM_001244198.2_gene_1  GGCACACGCCCTGGTTGGTATCCCGGGACTTCAGTACCAGGGCAACCCAC
+lcl|NM_001368894.2_gene_1  GGCACCCGCCCTGGTTGGTATCCGGGGACTTCGGTGCCAGGGCAACCTAC
+lcl|NM_013001.2_gene_1     GGCACCCGCCCTGGTTGGTATCCCGGGACGTCAGTACCAGGGCAACCCAC
+lcl|XM_075280870.1_gene_1  GGGACCCGGCCTGGTTGGTATCCGGGTACATCGGTGCCAGGCCAACCTAC
+lcl|XM_077820119.1_gene_1  GGCACGCGACCCGGATGGTACCCCGGGACGTCAGTGCCAGGACAGCCTAC
+                           ** ** ** ** ** ***** ** ** ** ** ** ***** ** ** **
+
+lcl|NM_001244198.2_gene_1  GCAAGATGGCTGCCAGCAACAGGAAGGAGGGGGAGAGAACACCAACTCCA
+lcl|NM_001368894.2_gene_1  GCAAGATGGCTGCCAGCAACAGGAAGGAGGGGGAGAGAATACCAACTCCA
+lcl|NM_013001.2_gene_1     GCAAGACGGCTGCCAGCAACAGGAAGGACAGGGAGAAAACACCAACTCCA
+lcl|XM_075280870.1_gene_1  GCAAGACGGATGCCCACAGCAAGAAGGAGGTGCGGAAAACACCAACTCCA
+lcl|XM_077820119.1_gene_1  GCAAGATGGCTGTCCACAACAGGAAGGAGGAGGTGAAAACACAAACTCCA
+                           ****** ** ** *  ** ** ******   *  ** ** ** *******
+
+lcl|NM_001244198.2_gene_1  TCAGTTCTAACGGAGAAGACTCGGATGAAGCTCAGATGCGACTTCAGCTG
+lcl|NM_001368894.2_gene_1  TCAGTTCCAACGGAGAAGATTCAGATGAGGCTCAAATGCGACTTCAGCTG
+lcl|NM_013001.2_gene_1     TCAGCTCCAATGGAGAAGACTCGGATGAGGCTCAAATGCGGCTGCAGCTG
+lcl|XM_075280870.1_gene_1  TCAGTTCTAATGGCGAAGACTCCGATGAAGCACAAATGAGGCTTCAGTTG
+lcl|XM_077820119.1_gene_1  TCAGCTCTAATGGAGAAGATTCAGATGAGGCACAGATGAGACTTCAGCTG
+                           **** ** ** ** ***** ** ***** ** ** *** * ** *** **
+
+lcl|NM_001244198.2_gene_1  AAGCGGAAGCTGCAAAGAAATAGAACATCTTTTACCCAAGAGCAGATTGA
+lcl|NM_001368894.2_gene_1  AAGCGGAAGCTGCAAAGAAATAGAACATCCTTTACCCAAGAGCAAATTGA
+lcl|NM_013001.2_gene_1     AAGCGGAAGCTGCAGAGAAATAGAACATCTTTTACCCAGGAGCAGATTGA
+lcl|XM_075280870.1_gene_1  AAAAGGAAACTTCAAAGGAACAGAACTTCATTTACCCAGGAACAAATAGA
+lcl|XM_077820119.1_gene_1  AAAAGAAAGCTGCAGAGAAATAGGACATCCTTTACCCAAGAGCAAATTGA
+                           **  * ** ** ** ** ** ** ** ** ******** ** ** ** **
+
+lcl|NM_001244198.2_gene_1  GGCTCTGGAGAAAGAGTTTGAGAGGACCCATTATCCAGATGTGTTTGCCC
+lcl|NM_001368894.2_gene_1  GGCCCTGGAGAAAGAGTTTGAGAGAACCCATTATCCAGATGTGTTTGCCC
+lcl|NM_013001.2_gene_1     GGCTCTGGAGAAAGAGTTTGAGAGGACCCATTATCCAGATGTGTTTGCCC
+lcl|XM_075280870.1_gene_1  AGCTCTAGAAAAAGAATTTGAGCGAACCCATTATCCTGATGTGTTTGCCA
+lcl|XM_077820119.1_gene_1  AGCCCTTGAGAAAGAATTTGAGAGAACTCATTATCCTGATGTGTTTGCCA
+                            ** ** ** ***** ****** * ** ******** ************ 
+
+lcl|NM_001244198.2_gene_1  GGGAAAGACTAGCAGCCAAAATAGATCTACCTGAAGCAAGAATACAGGTA
+lcl|NM_001368894.2_gene_1  GAGAAAGACTAGCAGCCAAAATAGATCTACCTGAAGCAAGAATACAGGTA
+lcl|NM_013001.2_gene_1     GGGAAAGACTAGCAGCCAAAATAGATCTACCTGAAGCAAGGATACAGGTG
+lcl|XM_075280870.1_gene_1  GAGAAAGATTAGCTGCCAAAATAGATTTGCCAGAAGCTAGGATACAGGTA
+lcl|XM_077820119.1_gene_1  GGGAGAGACTAGCTGCCAAAATAGACCTACCTGAAGCAAGAATACAGGTG
+                           * ** *** **** ***********  * ** ***** ** ******** 
+
+lcl|NM_001244198.2_gene_1  TGGTTTTCTAATCGAAGGGCCAAATGGAGAAGAGAAGAGAAACTGAGGAA
+lcl|NM_001368894.2_gene_1  TGGTTTTCTAATCGAAGGGCCAAATGGAGAAGAGAAGAAAAACTGAGGAA
+lcl|NM_013001.2_gene_1     TGGTTTTCTAACCGAAGGGCCAAGTGGAGAAGAGAAGAAAAACTGAGGAA
+lcl|XM_075280870.1_gene_1  TGGTTCTCAAATCGACGAGCAAAATGGAGACGAGAAGAAAAGCTACGGAA
+lcl|XM_077820119.1_gene_1  TGGTTTTCCAACAGGAGGGCAAAATGGAGAAGGGAAGAGAAACTGAGGAA
+                           ***** ** **  *  * ** ** ****** * ***** ** **  ****
+
+lcl|NM_001244198.2_gene_1  CCAGAGAAGACAGGCCAGCAACACTCCTAGTCACATTCCTATCAGCAGCA
+lcl|NM_001368894.2_gene_1  TCAGAGAAGACAGGCCAGCAACACACCTAGTCATATTCCTATCAGCAGTA
+lcl|NM_013001.2_gene_1     CCAGAGAAGACAGGCCAGCAACACCCCGAGTCACATCCCTATCAGCAGCA
+lcl|XM_075280870.1_gene_1  CCAGAGACGGCAAGCCAGTAACACGCCGAGTCACATTCCTATCAGTAGTA
+lcl|XM_077820119.1_gene_1  TCAGAGAAGACAAGCCAGCAACACACCCAGCCATATTCCCATCAGCAGTA
+                            ****** * ** ***** ***** ** ** ** ** ** ***** ** *
+
+lcl|NM_001244198.2_gene_1  GCTTCAGTACCAGTGTCTACCAGCCAATCCCACAGCCCACCACACCTGTC
+lcl|NM_001368894.2_gene_1  GTTTCAGCACCAGTGTCTACCAACCAATTCCACAACCCACCACACCGGTT
+lcl|NM_013001.2_gene_1     GTTTCAGTACCAGTGTCTACCAGCCAATTCCACAGCCCACCACACCTGTC
+lcl|XM_075280870.1_gene_1  GTTTCAGCACTAGTGTCTACCAGCCAATCCCACAGCCAACTACTCCAGTG
+lcl|XM_077820119.1_gene_1  GTTTCAGCACAAGTGTCTACCAACCAATCCCGCAACCTACCACACCTGTT
+                           * ***** ** *********** ***** ** ** ** ** ** ** ** 
+
+lcl|NM_001244198.2_gene_1  TCCTCCTTCACATCAGGTTCCATGTTGGGCCGAACAGACACCGCCCTCAC
+lcl|NM_001368894.2_gene_1  TCCTCCTTCACATCTGGCTCCATGTTGGGCCGAACAGACACAGCCCTCAC
+lcl|NM_013001.2_gene_1     TCCTCCTTTACATCGGGTTCCATGTTGGGCCGCACAGACACCGCCCTCAC
+lcl|XM_075280870.1_gene_1  TCATCGTTCACATCAGGTTCTATGTTGGGAAGAACAGATACAGCTCTAAC
+lcl|XM_077820119.1_gene_1  TCCTCTTTCACATCAGGTTCAATGTTGGGCAGAACAGACACTGCGCTAAC
+                           ** ** ** ***** ** ** ********  * ***** ** ** ** **
+
+lcl|NM_001244198.2_gene_1  CAACACGTACAGTGCTTTGCCACCCATGCCCAGCTTCACCATGGCAAACA
+lcl|NM_001368894.2_gene_1  AAACACCTACAGCGCTCTGCCGCCTATGCCCAGCTTCACCATGGCAAATA
+lcl|NM_013001.2_gene_1     CAACACGTACAGTGCTTTGCCGCCGATGCCCAGCTTCACCATGGCAAATA
+lcl|XM_075280870.1_gene_1  AAACACGTACAGCGCGCTGCCGCCTATGCCTAGCTTCACCATGGCAAATA
+lcl|XM_077820119.1_gene_1  AAACACATACAGTGCTCTGCCACCCATGCCTAGCTTCACAATGGCTAACA
+                            ***** ***** **  **** ** ***** ******** ***** ** *
+
+lcl|NM_001244198.2_gene_1  ACCTGCCTATGCAACCCCCAGTCCCCAGTCAGACCTCCTCATACTCGTGC
+lcl|NM_001368894.2_gene_1  ACCTGCCTATGCAACCCCCAGTCCCCAGCCAGACCTCCTCATACTCCTGC
+lcl|NM_013001.2_gene_1     ACCTGCCTATGCAACCCCCAGTCCCCAGTCAGACCTCCTCGTACTCCTGC
+lcl|XM_075280870.1_gene_1  ACCTTCCTATGCAACCCCCTGTACCCAGCCAGACCTCCTCCTACTCATGC
+lcl|XM_077820119.1_gene_1  ACCTGCCTATGCAACCCCCAGTTCCCAGCCAGACCTCCTCCTACTCTTGC
+                           **** ************** ** ***** *********** ***** ***
+
+lcl|NM_001244198.2_gene_1  ATGCTGCCCACCAGCCCGTCAGTGAATGGGCGGAGTTATGATACCTACAC
+lcl|NM_001368894.2_gene_1  ATGCTGCCCACCAGCCCTTCGGTGAATGGGCGGAGTTATGATACCTACAC
+lcl|NM_013001.2_gene_1     ATGCTGCCCACCAGCCCTTCAGTGAATGGGCGGAGTTATGATACCTACAC
+lcl|XM_075280870.1_gene_1  ATGCTGCCCACAAGTCCATCTGTGAATGGGCGGAGCTATGATACATACAC
+lcl|XM_077820119.1_gene_1  ATGCTGCCCACTAGTCCGTCAGTGAATGGGCGGAGCTATGATACGTACAC
+                           *********** ** ** ** ************** ******** *****
+
+lcl|NM_001244198.2_gene_1  CCCTCCGCACATGCAAACACACATGAACAGTCAGCCCATGGGCACCTCGG
+lcl|NM_001368894.2_gene_1  CCCCCCACATATGCAGACACACATGAACAGTCAGCCAATGGGCACCTCGG
+lcl|NM_013001.2_gene_1     CCCTCCGCACATGCAAACACACATGAACAGTCAGCCCATGGGCACCTCGG
+lcl|XM_075280870.1_gene_1  ACCTCCCCACATGCAGACACACATGAACAGCCAATCAATGGGCACCTCTG
+lcl|XM_077820119.1_gene_1  ACCTCCTCACATGCAGACACACATGAACAGCCAGCCAATGGGCACTTCTG
+                            ** ** ** ***** ************** **  * ******** ** *
+
+lcl|NM_001244198.2_gene_1  GGACCACTTCAACAGGACTCATTTCACCTGGAGTGTCAGTTCCCGTCCAA
+lcl|NM_001368894.2_gene_1  GCACCACTTCAACAGGACTCATTTCCCCTGGTGTGTCAGTTCCAGTTCAA
+lcl|NM_013001.2_gene_1     GAACCACTTCAACAGGACTCATTTCACCTGGAGTGTCAGTTCCCGTCCAA
+lcl|XM_075280870.1_gene_1  GTACAACTTCTACAGGTCTCATTTCCCCTGGAGTGTCAGTCCCAGTACAA
+lcl|XM_077820119.1_gene_1  GAACCACTTCAACAGGTCTTATTTCACCTGGTGTGTCAGTTCCAGTTCAA
+                           * ** ***** ***** ** ***** ***** ******** ** ** ***
+
+lcl|NM_001244198.2_gene_1  GTTCCCGGGAGTGAACCTGACATGTCTCAGTACTGGCCTCGATTACAGTA
+lcl|NM_001368894.2_gene_1  GTTCCCGGAAGTGAACCTGATATGTCTCAATACTGGCCAAGATTACAGTA
+lcl|NM_013001.2_gene_1     GTTCCCGGAAGTGAACCTGACATGTCTCAGTACTGGCCTCGATTACAGTA
+lcl|XM_075280870.1_gene_1  GTACCCGGCAGTGAACCTGACATGTCTCAGTACTGGCCAAGACTACAGTA
+lcl|XM_077820119.1_gene_1  GTTCCTGGCAGTGAACCTGATATGTCTCAATACTGGCCAAGATTA-----
+                           ** ** ** *********** ******** ********  ** **     
+
+lcl|NM_001244198.2_gene_1  AAGAGAGAA--GGAGAGAGCATGTGATCGAGAGAGGAAATTGTGTTCACT
+lcl|NM_001368894.2_gene_1  AAAAAAAAA--AAAAAAAAAA---AAAGGAAAGGAAATATTGTGTTAATT
+lcl|NM_013001.2_gene_1     AAGAGAGAGAAAGAGAGAGAATGTGATCGAGAGGG-GGATTGTGTTCACT
+lcl|XM_075280870.1_gene_1  AAA----------------------A-------------CCGTGTTAATT
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  CTGCCAATGACTATGTGGACACAGCAGTTGGGTATTCAGGAAAGAAAGAG
+lcl|NM_001368894.2_gene_1  CAGTCAGTGACTATGGGGACACAACAGTTGAGCTTTCAGGAAAGAAAGAA
+lcl|NM_013001.2_gene_1     CAGCCAATGACTATGTGGACACAGCGGTTGGGTATTCAGGAAAGAAAGAG
+lcl|XM_075280870.1_gene_1  TA------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  AAATGGCGGTTAGAAGCACTTCACTT-TGTAACT--GTCCTGAACTGGAG
+lcl|NM_001368894.2_gene_1  AAATGGCTGTTAGAGCCGCTTCAGTTCTACAATTGTGTCCTGTATTGTAC
+lcl|NM_013001.2_gene_1     AAATGGCTGTTAGAAGCACTTCACTT-TACAACTGTGTCCTATACTGGAG
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  CCC------GGGAATGGACTAGAACCAAGGACCTTTGCGTACAGAAGGCA
+lcl|NM_001368894.2_gene_1  CACTGGGGAAGGAATGGACTTGAAACAAGGACCTTTGTATACAGAAGGCA
+lcl|NM_013001.2_gene_1     CCC------GGGAATGGACTAGAAACCAGGACCTTTGCGTACAGAAGGCA
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  CGGTATCAGTTGGAACAAATCTTCATTTTGGTATCCAAACTTTTATTCAT
+lcl|NM_001368894.2_gene_1  CGATATCAGTTGGAACAAATCTTCATTTTGGTATCCAAACTTTTATTCAT
+lcl|NM_013001.2_gene_1     CGGTATCAGTTGGAACAAATCTTCATTTTGGTATCCAAACTTTTATTCAT
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  TTTGGTGTATTATTTGTAAATGGGCATTGGTATGTTATAATGAAGAAAAG
+lcl|NM_001368894.2_gene_1  TTTGGTGTATTATTTGTAAATGGGCATTTGTATGTTATAATGAAAAAAAG
+lcl|NM_013001.2_gene_1     TTTGGTGTATTATTTGTAAATGGGCATTTGTATGTTATAATGAAGAAAAG
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  AACAACACAGGCTG-TTGGATCGCGGATCTGTGTTG-CTCATGTGGTTGT
+lcl|NM_001368894.2_gene_1  AACAATGTAGACTGGATGGATGTTTGATCTGTGTTG-GTCATGAAGTTGT
+lcl|NM_013001.2_gene_1     AACAACACAGGCTG-TTGGATCTTGGATCTGTGTTGGCTCATGTGGTTGT
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  T-----------TA--AAGGAAACCATGATCGACAAGATTTGCCATGGAT
+lcl|NM_001368894.2_gene_1  TTTTTTTTTTTTTAAAAAGAAAACCATGATCAACAAGCTTTGCCACGAAT
+lcl|NM_013001.2_gene_1     T-----------TA--AAGGAAACCATGATCGACAAGATTTGCCATGGAT
+lcl|XM_075280870.1_gene_1  ---------------------A-CCAATGA--------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  TTAAGAGTTTTATCAAGATATATCAAATACTTCTCCCCATCTGTTCATAG
+lcl|NM_001368894.2_gene_1  TTAAGAGTTTTATCAAGATATATCGAATACTTCTACCCATCTGTTCATAG
+lcl|NM_013001.2_gene_1     TTAAGAGTTTTATCAAGATATATCGAATACTTCTACCCATCTGTTCATAG
+lcl|XM_075280870.1_gene_1  -----------------------------C--------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  TTTATGGACTGATGTTCCAAGTTTGTATCATTCCTTTGCATATAATTGAA
+lcl|NM_001368894.2_gene_1  TTTATGGACTGATGTTCCAAGTTTGTATCATTCCTTTGCATATAATTAAA
+lcl|NM_013001.2_gene_1     TTTATGGACTGATGTTCCAAGTTTGTATCATTCCTTTGCATATAATTAAA
+lcl|XM_075280870.1_gene_1  TTTATGGA------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  CCTGGGACAACACACACTAGATATATGTAAAAACTATCTGTTGGTT-TTC
+lcl|NM_001368894.2_gene_1  CCTGGAACAACATGCACTAGATTTATGTCAGAAATATCTGTTGGTT-TTC
+lcl|NM_013001.2_gene_1     CATGGAACAACATACACTAGATATATGTAAAAAATATCTGTTGGTTTTTC
+lcl|XM_075280870.1_gene_1  ----GAA---CA---------------------------GTTGG------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  CAAAGGTTGTTAACAGATGAAGTTTATGTGCAAAAAAGGGTAAGATATGA
+lcl|NM_001368894.2_gene_1  CAAAGGTTGTTAACAGATGAAGTTTATGTGCAAAAAAGGGTAAGATATAA
+lcl|NM_013001.2_gene_1     CAAAGGTTGTTAACAGATAAAGTTTATGTGCAAAAAAGGGTAAGATATGA
+lcl|XM_075280870.1_gene_1  ----------------A---------TGT---------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  ATTCAAGGA------GAAGTTGATAGCTAAAAGGTAGAGTGTGTCTTCGA
+lcl|NM_001368894.2_gene_1  ATTCAAGGAAGAAAAAAAGTTGATAGCTAAAAGGTAGAGTGTGTCTTCGA
+lcl|NM_013001.2_gene_1     ATTCGAGGA------GAAGTTGATAGCTAAAAGGTAGAGTGTGTCTTCGA
+lcl|XM_075280870.1_gene_1  --TC--------------------AGC-----------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  TATAATACAATTTGTTTTATGTCAAAATGTAAGTATTTGTCTTCCCTAGA
+lcl|NM_001368894.2_gene_1  TATAATCCAATTTGTTTTATGTCAAAATGTAAGTATTTGTCTTCCCTAGA
+lcl|NM_013001.2_gene_1     TATAATCCAATTTGTTTTATGTCAAAATGTAAGTATTTGTCTTCCCTAGA
+lcl|XM_075280870.1_gene_1  -------------------------------AGTATT-------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  AATCCTCAGAATGATTTCTATAATAAAGTTAATTTCATTTATATTTGACA
+lcl|NM_001368894.2_gene_1  AATCCTCAGAATGATTTCTATAATAAAGTTAATTTCATTTATATTTGACA
+lcl|NM_013001.2_gene_1     AATCCTCAGAATGATTTCTATAATAAAGTTAATTTCATTTATATTTGAAA
+lcl|XM_075280870.1_gene_1  --------------------------------------TTAT-------A
+lcl|XM_077820119.1_gene_1  ------C-------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  AGAATACTCTATAGATGTTTTATACACATTTTCATGCAATCATTTGTTTC
+lcl|NM_001368894.2_gene_1  AGAAT-----ATAGATGTTTTATACACATTTTCATGCAATCATACGTTTC
+lcl|NM_013001.2_gene_1     AAA-----AAAAA-------------------------------------
+lcl|XM_075280870.1_gene_1  AA------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  TTTCTTGGCCAGCAAAAGTTAATTGTTCTTAGATATAGCTGTATTACTGT
+lcl|NM_001368894.2_gene_1  TTTTTTGGCCAGCAAAAGTTAATTGTTCTTAGATATAGTTGTATTACTGT
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  -------------AAA----------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  TCACAGTCCAATCATTTTGTGCATCTAGAATTCATTCCTAATCAATTAAA
+lcl|NM_001368894.2_gene_1  TCACGGTCCAATCATTTTGTGCATCTAGAGTTCATT--------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  AGTGCTTGCAAGAGTTTTAAACCTAAGTGTTTTGCAGTTGTTCACAAATA
+lcl|NM_001368894.2_gene_1  --------------------------------------------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  CATATCAAAATTAACCATTGTTGATTGTAAAAAAAAAACCATGCCAAAGC
+lcl|NM_001368894.2_gene_1  --------------------------------------------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  CTTTGTATTTTCTTTATTACACTATTTTCTTTTTAACCTTATAGTGTGGT
+lcl|NM_001368894.2_gene_1  --------------------------------------------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  GTTACAAATTTTGTTCCCACATTAGGTTAATGTCCTAAATCAATGGTTAC
+lcl|NM_001368894.2_gene_1  ---------------------------------CCTA-------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  TTTCATATATTCCATTTTACAACCTGATGGTCCTCAAAGAAATAATTTTT
+lcl|NM_001368894.2_gene_1  --------------------------------------------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  ACAGATATCAGAAGTTGGTAATGTATTGTAAAAAAACCTAAAACAAAACA
+lcl|NM_001368894.2_gene_1  --------------------------------------------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  CAGCTAGCTGTATGTAGGTCTGCATCCCACAATGTGTACAGAAAATAGTA
+lcl|NM_001368894.2_gene_1  --------------------------------------------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  ATATTTCAAATTTATCTATTTATTTGATTTTAAAGCTCAAAGTGTAGAAG
+lcl|NM_001368894.2_gene_1  --------------------------------------------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  TAATTAAAAAAATGCAACAAGGGATTCACTAGGAATTGTTTTGAATTAGA
+lcl|NM_001368894.2_gene_1  --------------------------------------------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  GCTGGCATTTTTAACCTGGGCAACCAATCCCCACAATGATTCCACTACAG
+lcl|NM_001368894.2_gene_1  --------------------------------------------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  TCATATTCAAAGGTTGAGTTCTTAAACAAGATCCTCTGACAGCTGTTGCC
+lcl|NM_001368894.2_gene_1  --------------------------------------------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  AATCTCAGATAACCCTTCTTGCTGTCCTGTCTCCCCACTCTTTGCATAAG
+lcl|NM_001368894.2_gene_1  --------------------------------------------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  AGGCATCGGCTCCCATTGAACCCCTCCAGCTGCTCCCATGTGTGTCTTGC
+lcl|NM_001368894.2_gene_1  --------------------------------------------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  TTTCGGTGCTGTGGTGGGTGGTTGGAGGGTGGAGGGGATGTTGCATGTCA
+lcl|NM_001368894.2_gene_1  --------------------------------------------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  AGGAATAATGAGCACAGACACACTAAGAGACAACAACAAAGCGGACTGTG
+lcl|NM_001368894.2_gene_1  --------------------------------------------------
+lcl|NM_013001.2_gene_1     --------------------------------------------AAAAAA
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  ACTGGCCGGTGGGAGTTAAAGGCCTTCAGTCATTGGCAGCTTAAGCCAAA
+lcl|NM_001368894.2_gene_1  --------------------------------------------------
+lcl|NM_013001.2_gene_1     AAAAAAAAAAAAAAAAAAA-------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  CATTCCCAAATCTATGAAGCAGGGCCCATTGTTGGTCAGTTGTCATTTGC
+lcl|NM_001368894.2_gene_1  --------------------------------------------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  GAAGAAGCACAGATCTGATCATGTTTAAAGTGGCAGCATGCAGGGCAGGA
+lcl|NM_001368894.2_gene_1  --------------------------------------------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  GTGCCTGAGCCCAAGCAATGGAGAGAAAAAAAAGGAAGCTTTTGTTGGTT
+lcl|NM_001368894.2_gene_1  --------------------------------------------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  AGAAAAAGGCCTGCCTGCTATTTTCTGCCTGTTCTGTGCAACACTTAAGT
+lcl|NM_001368894.2_gene_1  --------------------------------------------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  CACATAGACACATTTTCTTCAGCGAGCTTGAGAGAGAGAAACTCTGGGGT
+lcl|NM_001368894.2_gene_1  --------------------------------------------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  CCTGGCCACCTAGATTAAAAATACAAGGAGACTCATCCTAGGGGGAAGGC
+lcl|NM_001368894.2_gene_1  ----------------------AT--------------------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  ACTTCACTGACTCCCAACTCTGAGGATTTTTGGTTTTGTAAATCGCAAAA
+lcl|NM_001368894.2_gene_1  ------C--------A----------------------------------
+lcl|NM_013001.2_gene_1     --------------------------------------------------
+lcl|XM_075280870.1_gene_1  --------------------------------------------------
+lcl|XM_077820119.1_gene_1  --------------------------------------------------
+                                                                             
+
+lcl|NM_001244198.2_gene_1  GGCAAATGATCAGAAAT--------AAATTGATTGGAGGATTTCAAC
+lcl|NM_001368894.2_gene_1  -AT-------TA--AAAGTGCTTGCAA-GAG---------TTTTAAA
+lcl|NM_013001.2_gene_1     --------------AAA--------AA-----------------AAA
+lcl|XM_075280870.1_gene_1  ----------C--------------AA-----------------AAA
+lcl|XM_077820119.1_gene_1  -----------------------------AG-------------TAA
+                                                                        * 
+
+
