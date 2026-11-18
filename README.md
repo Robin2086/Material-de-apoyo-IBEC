@@ -19,4 +19,5 @@ Archivos de salida para visualizar los resultados de ejercicios y ejemplos del e
 
 ## Fecha:
 **Fecha de creación:** octubre de 2026
+
 **Ultima actualización:** 17 de noviembre de 2026
